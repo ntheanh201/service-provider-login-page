@@ -25,6 +25,7 @@ a {
 
 .row {
   display: flex;
+  overflow: hidden;
 }
 
 .column {
